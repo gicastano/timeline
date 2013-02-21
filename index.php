@@ -7,8 +7,10 @@
     <body>
         <?php
         echo("hola soy la prueba");
-        echo("soy una rama");
-        echo("<br>Faalta");
+        
+        echo("rami");
+       
+        
         ?>
     </body>
 </html>
