@@ -32,6 +32,20 @@ storyjs_jsonp_data = {
                     "caption":""
                 }
             },
+            {
+ 
+                
+                "startDate":"2007,9",
+		"endDate":"",
+                "headline":"GREEN SQA (SOFTWARE QUALITY ASSURANCE):",
+                "text":"Certificación y autorización de uso de sello de calidad para el software SAIA® - Sistema de Administración Integral de Archivo",
+                "asset":
+                {
+                    "media":"http://cerok.com/web_cerok/wp-content/uploads/2008/12/sello_green.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            },
 		
 		
 
