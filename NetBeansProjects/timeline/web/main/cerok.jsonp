@@ -46,6 +46,21 @@ storyjs_jsonp_data = {
                     "caption":""
                 }
             },
+            {
+ 
+                
+                "startDate":"2007,9",
+		"endDate":"",
+                "headline":"ASOCIACIÓN NACIONAL DE INDUSTRIALES - ANDI - RISARALDA – QUINDÍO:",
+                "text":"Mejor Empresa en la categoría innovación empresarial con el software SAIA® - Sistema de Administración Integral de Archivo",
+                "asset":
+                {
+                    "media":"http://cerok.com/web_cerok/wp-content/uploads/2008/12/premio-andi-regional.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+		
 		
 		
 
