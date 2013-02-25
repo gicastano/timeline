@@ -60,6 +60,65 @@ storyjs_jsonp_data = {
                     "caption":""
                 }
             },
+            {
+ 
+                
+                "startDate":"2006,10",
+		"endDate":"",
+                "headline":"FUNDACAFÉ:",
+                "text":"Mejor proyecto “software SAIA® - Sistema de Administración Integral de Archivo” en la categoría de Innovación Científica y Desarrollo Tecnológico y generador de empleo directo e indirecto en el eje cafetero. Octubre de 2006.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+ 
+                
+                "startDate":"2006,6",
+		"endDate":"",
+                "headline":"JUNIOR CHAMBER INTERNATIONAL Capítulo Pereira:",
+                "text":"Mejor Plan de Negocios en el marco del BBP Best Business Plan 2006",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+ 
+                
+                "startDate":"2005,6",
+		"endDate":"",
+                "headline":"UNIVERSIDAD TECNOLÓGICA DE PEREIRA:",
+                "text":"Reconocimiento al proyecto “software SAIA® - Sistema de Administración Integral de Archivo” en la categoría  “Aplicación de base tecnológica de acuerdo con las directrices del Archivo General de la Nación”. ",
+                "asset":
+                {
+                    "media":"http://media.utp.edu.co/paginaprincipal/imagenes/utp.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+ 
+                
+                "startDate":"2005,5",
+		"endDate":"",
+                "headline":"CÁMARA DE COMERCIO DE PEREIRA, ANDI, INCUBAR EJE CAFETERO, COMFAMILIAR RISARALDA, ASOCIACIÓN DE JÓVENES EMPRESARIOS - AJE RISARALDA-:",
+                "text":"Primer puesto “software SAIA® - Sistema de Administración Integral de Archivo” en la categoría Proyectos en Marcha Risaralda Emprende. Mayo de 2005. ",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+ 
+ 
+
 		
 		
 		
