@@ -1,0 +1,28 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"cerok",
+        "type":"default",
+		"text":"People say stuff",
+		"startDate":"2013,02,25",
+        "date": [
+           {
+                "startDate":"2008,2,1",
+		"endDate":"2008,2,2",
+                "headline":"Premio ANDI",
+                "text":"Segunda Mejor Empresa en la categoría innovación empresarial con el software SAIA® ",
+                "asset":
+                {
+                    "media":"http://cerok.com/sitio/images/stories/gestion_documental_1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            
+		
+		
+
+
+        ]
+    }
+}
