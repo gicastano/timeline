@@ -18,7 +18,20 @@ storyjs_jsonp_data = {
                     "caption":""
                 }
             },
-            
+            {
+ 
+                
+                "startDate":"2009",
+		"endDate":"Innova",
+                "headline":"Premio ANDI",
+                "text":"finalista Premio Colombiano a la Innovación  Tecnológica y Empresarial para las Mipymes-Innova 2009 con el software SAIA® -  Sistema de Administración Integral de Archivo.",
+                "asset":
+                {
+                    "media":"http://cerok.com/sitio/images/stories/gestion_documental_1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
 		
 		
 
