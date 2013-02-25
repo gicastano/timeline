@@ -8,7 +8,7 @@ storyjs_jsonp_data = {
         "date": [
            {
                 "startDate":"2008,2,1",
-		"endDate":"2008,2,2",
+		"endDate":"",
                 "headline":"Premio ANDI",
                 "text":"Segunda Mejor Empresa en la categoría innovación empresarial con el software SAIA® ",
                 "asset":
