@@ -1,8 +1,3 @@
-<!--
-    Document   : index
-    Created on : 23/02/2013, 12:48:54 PM
-    Author     : cerok10
-!-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,8 +29,8 @@
      source: 'cerok.jsonp'
     }
   </script>
-  <script type="text/javascript" src="../web/compiled/js/storyjs-embed.js"></script>
-
+  <!--se carga el script con los datos (arreglo) enviado por el archivo jsonp-->
+  <script type="text/javascript" src="./compiled/js/storyjs-embed.js"></script>
+  <!-- END Timeline Embed-->
 </body>
 </html>
-
